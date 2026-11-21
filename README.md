@@ -1,16 +1,25 @@
-## Hi there 👋
+# Victor Caruso
 
-<!--
-**carusovictor/carusovictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenharia de Dados** · Desenvolvimento de Software
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho direcionado meus estudos e projetos para a Engenharia de Dados, com interesse em entender todo o caminho da informação: da coleta e transformação até o armazenamento e a disponibilização para uso.
+
+Também gosto de desenvolvimento de software e de explorar como diferentes tecnologias se conectam na construção de soluções. Atualmente, tenho me dedicado a **pipelines ETL, bancos de dados, automação e integração de sistemas**.
+
+## Tecnologias e ferramentas
+
+| Área | Ferramentas |
+| --- | --- |
+| **Dados** | `Python` · `SQL` · `Pandas` · `PostgreSQL` |
+| **Pipelines e ambiente** | `Apache Airflow` · `Docker` |
+| **Desenvolvimento** | `C#` · `HTML` · `CSS` · `JavaScript` |
+| **Versionamento** | `Git` · `GitHub` |
+
+## Links
+
+- **Portfólio:** [Acessar portfólio](carusovictor.github.com)
+- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/victor-caruso-32ab77384/)
+
+<!-- Os principais projetos aparecem nos repositórios fixados (Pinned) do perfil. -->
