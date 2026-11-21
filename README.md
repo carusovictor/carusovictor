@@ -19,7 +19,7 @@ Também gosto de desenvolvimento de software e de explorar como diferentes tecno
 
 ## Links
 
-- **Portfólio:** [Acessar portfólio](carusovictor.github.com)
+- **Portfólio:** [Acessar portfólio](carusovictor.github.io)
 - **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/victor-caruso-32ab77384/)
 
 <!-- Os principais projetos aparecem nos repositórios fixados (Pinned) do perfil. -->
