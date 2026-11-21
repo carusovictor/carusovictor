@@ -4,10 +4,11 @@
 
 ## Sobre mim
 
-Tenho direcionado meus estudos e projetos para a Engenharia de Dados, com interesse em entender todo o caminho da informação: da coleta e transformação até o armazenamento e a disponibilização para uso.
+### Sobre mim
 
-Também gosto de desenvolvimento de software e de explorar como diferentes tecnologias se conectam na construção de soluções. Atualmente, tenho me dedicado a **pipelines ETL, bancos de dados, automação e integração de sistemas**.
-
+- **Área de interesse:** Engenharia de Dados e Desenvolvimento de Software.
+- **Foco de estudos:** Pipelines ETL, modelagem de dados, SQL e automação.
+- **Formação:** Sistemas de Informação - IFSULDEMINAS
 ## Tecnologias e ferramentas
 
 | Área | Ferramentas |
