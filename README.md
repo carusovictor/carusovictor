@@ -13,7 +13,7 @@
 | --- | --- |
 | **Dados** | `Python` · `SQL` · `Pandas` · `PostgreSQL` |
 | **Pipelines e ambiente** | `Apache Airflow` · `Docker` |
-| **Desenvolvimento** | `C#` · `HTML` · `CSS` · `JavaScript` |
+| **Desenvolvimento** | `C#` · `JavaScript` · `React` |
 | **Versionamento** | `Git` · `GitHub` |
 
 ## Links
