@@ -4,8 +4,6 @@
 
 ## Sobre mim
 
-### Sobre mim
-
 - **Área de interesse:** Engenharia de Dados e Desenvolvimento de Software.
 - **Foco de estudos:** Pipelines ETL, modelagem de dados, SQL e automação.
 - **Formação:** Sistemas de Informação - IFSULDEMINAS
